@@ -1,4 +1,6 @@
-# MemoryMatchGame
-Memory Match Game is the first game I worked in ever. this project was one of the requirement of Advanced Programming Material in 2017 (1437H-1438H). In this project, we used Java language with graphical user interface and MySQL Workbench database.
+# Memory-Match-Game
+This is a memory match game project created using Java programming language with graphical user interface and MySQL Workbench database.
 
-Team Member: Ghufran Noor, Hosnia Ali(@hosniaali), Jowana, and Ro'aa Sheqdar
+The project contain three folders: the first folder is pic that is contain all pictures of the game, the second folder is MMGDatabase that contain the tables in sql formate, the thirdf file contain the Java code of the memory match game. 
+
+This is my work with my team: Ghufran Noor, Shatha Abdallah, Jowana, and Ro'aa Sheqdar.
